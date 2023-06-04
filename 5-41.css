@@ -1,0 +1,10 @@
+a {
+    display: inline-block;
+    text-align: center;
+    width: 100%; /* 或者其他宽度 */
+  }
+  
+  a span {
+    display: inline-block;
+    text-align: left;
+  }
